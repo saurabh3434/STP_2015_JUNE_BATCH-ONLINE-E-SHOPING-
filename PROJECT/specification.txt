@@ -1,0 +1,5 @@
+Specification of This Product:
+Name:
+Brand:
+Price:
+etc;

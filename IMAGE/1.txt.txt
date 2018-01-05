@@ -1,0 +1,1 @@
+Coppy all immages in current directory
